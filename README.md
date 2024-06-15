@@ -32,17 +32,24 @@ EDA is performed to understand the data distribution and relationships between f
 Models used:
 
 Logistic Regression
+
 Random Forest
+
 Gradient Boosting
+
 Hyperparameter tuning is done using GridSearchCV.
 
 ## Model Evaluation
 Evaluation metrics include:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1 Score
+
 ROC AUC
 
 ## Model Interpretation
